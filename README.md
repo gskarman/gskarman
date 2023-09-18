@@ -8,7 +8,7 @@ So keep your eyes peeled - 👀
 
 Best way to contact me is through my mail:
 
-gustav@mjukgods.se
+gustav@namraks.com
 
 or through linkedIn:
 
