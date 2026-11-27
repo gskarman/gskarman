@@ -1,20 +1,12 @@
-- 👋 Hi, I’m @gskarman
+# Hi, I'm Gustav 👋
 
-My Name is Gustav Skarman and im (so far) a self thaught google cloud expert. I love my JS programming and are on GitHub to better my CI/CD knowledge.
+I'm an AI Engineer on the AI team at EQT Ventures & Growth in Stockholm. I build machine learning models that find Europe's best founders early, and augment the venture workflow.
 
-I live in Stockholm/Sweden and spend most of my time on vanilla JS projects and Next.js projects. I have big dreams of creating a SaaS one day and it might come sooner than expected.
+Before EQT I co-founded **Ariel** with Pelle Fredrikson: an AI assistant that answered calls, managed calendars and handled messages, built on our own agent orchestration framework. [Read the story →](https://www.namraks.com/project/ariel)
 
-So keep your eyes peeled - 👀
+I studied machine learning at KTH and have sailed competitively for 15 years.
 
-Best way to contact me is through my mail:
-
-gustav@namraks.com
-
-or through linkedIn:
-
-https://se.linkedin.com/in/gustav-skarman-92a986168
-
-<!---
-gskarman/gskarman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌐 [namraks.com](https://www.namraks.com) (LLM-friendly: [llms.txt](https://www.namraks.com/llms.txt))
+- 💼 [LinkedIn](https://www.linkedin.com/in/gustavskarman/) · [X](https://x.com/_namraks)
+- ⛵ [sailboat-visualizer](https://github.com/gskarman/sailboat-visualizer), live at [boats.namraks.com](https://boats.namraks.com)
+- ✉️ g@namraks.com
